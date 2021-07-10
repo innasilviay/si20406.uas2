@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183383856406",
+    "project_id": "my-contact-9205f",
+    "storage_bucket": "my-contact-9205f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183383856406:android:76a95cc67f125343996c37",
+        "android_client_info": {
+          "package_name": "com.materialuiux.roomdatabaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183383856406-2rmr33o7admaj9c25vviu9tl4qp1olfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_BgQW51tbALTuO-QBNM45JBgVD4_YVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183383856406-2rmr33o7admaj9c25vviu9tl4qp1olfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
